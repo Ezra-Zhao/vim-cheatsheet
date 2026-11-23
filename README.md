@@ -1,5 +1,7 @@
 # Vim 命令速查表 · Vim Cheatsheet
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 [![Stars](https://img.shields.io/github/stars/Ezra-Zhao/vim-cheatsheet?style=social)](https://github.com/Ezra-Zhao/vim-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
 
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
